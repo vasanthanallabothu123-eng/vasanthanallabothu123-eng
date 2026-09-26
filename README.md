@@ -1,12 +1,9 @@
 [ReadMe (1).md](https://github.com/user-attachments/files/32686782/ReadMe.1.md)
 ## Hi there 👋
-
-<!--
 **vasanthanallabothu123-eng/vasanthanallabothu123-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+🔭 I’m currently working on ...# 💫 About Me:
 # 👋 Hi, I'm Vasantha<br><br>🎓 Electronics and Communication Engineering graduate with an interest in "Embedded Systems, VLSI, Networking, and Software Development".<br><br>💻 I enjoy learning "C, Python, JavaScript, HTML, CSS, Linux, Git/GitHub, and Cisco Networking".<br><br>🔧 I work on practical projects involving "Embedded Systems, Computer Networks, Web Development, and Image Processing".<br><br>🚀 Currently, I am improving my technical skills through hands-on projects, labs, and continuous learning.<br><br>📌 Interests: Embedded Systems | VLSI | Networking | Linux | Software Development | AI/ML<br><br>📫 I'm always interested in learning new technologies and building practical projects.<br>
 
 
